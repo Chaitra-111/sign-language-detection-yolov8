@@ -1,0 +1,6 @@
+tfenv/
+runs/
+__pycache__/
+*.pt
+*.jpg
+*.png

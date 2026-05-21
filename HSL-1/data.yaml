@@ -1,0 +1,16 @@
+names:
+- Hello
+- Love_you
+- 'No'
+- Thank_you
+- 'Yes'
+nc: 5
+roboflow:
+  license: CC BY 4.0
+  project: hsl-euovf
+  url: https://universe.roboflow.com/bahaynidon/hsl-euovf/dataset/1
+  version: 1
+  workspace: bahaynidon
+test: ../test/images
+train: ../train/images
+val: ../valid/images
